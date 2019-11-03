@@ -1,0 +1,18 @@
+.jumbotron img{
+     width : 200px;
+     
+}
+
+.jumbotron {
+    text-align: center;
+    font-family: Courier New, 'Courier', monospace;
+}
+
+.judul{
+    text-align: center;
+}
+
+.judul hr{
+    width: 100px;
+    border: solid darkgray;
+}
